@@ -1,0 +1,1142 @@
+repo_name: shinhanbyeol/postgraphile
+report_id: 583fbfb81a3d8bcfd66f86bd67eb64fd
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-14T04:40:03+00:00'
+requested_by: dependabot[bot]
+provider: github
+branch: main
+detected_tools_count: 81
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/examples/forum/data.sql
+  detection_source: examples/forum/data.sql
+  last_updated_by: calebmer
+  last_updated_on: 2016-10-15 15:55:10.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile
+  detection_source: Repo Metadata
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: Fastify
+  description: Fast and low overhead web framework, for Node.js
+  website_url: http://www.fastify.io/
+  version: 3.10.1
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/7609/24939410.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: Koa
+  description: Next generation web framework for node.js
+  website_url: http://koajs.com/
+  version: 2.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1726/5055057.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: calebmer
+  last_updated_on: 2016-08-01 12:39:32.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  version: 12.0.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/Dockerfile
+  detection_source: Dockerfile
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2019-05-17 15:32:42.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 16.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: postgraphiql/package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2019-12-11 12:58:11.000000000 Z
+- name: Restify
+  description: node.js REST framework specifically meant for web service APIs
+  website_url: http://restify.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/2260/AUuZro2V_400x400.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: css-loader
+  description: Helps webpack to collect CSS from all the css files
+  website_url: https://github.com/webpack-contrib/css-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: GraphQL
+  description: A data query language and runtime
+  website_url: http://graphql.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Query Languages
+  image_url: https://img.stackshare.io/service/3820/12972006.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/examples/servers/schema.graphql
+  detection_source: examples/servers/schema.graphql
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2020-11-18 16:45:02.000000000 Z
+- name: GraphiQL
+  description: An in-browser IDE for exploring GraphQL
+  website_url: https://github.com/graphql/graphiql
+  version: 1.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/7879/GraphiQL.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: postgraphiql/package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: PostgreSQL
+  description: A powerful, open source object-relational database system
+  website_url: http://www.postgresql.org/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-02-15 16:07:31.000000000 Z
+- name: ws
+  description: A Node.js WebSocket library
+  website_url: https://github.com/websockets/ws
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/11381/no-img-open-source.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: calebmer
+  last_updated_on: 2016-08-01 12:39:32.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile
+  detection_source: Repo Metadata
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: calebmer
+  last_updated_on: 2016-08-01 12:39:32.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/.github/workflows/ci.yml
+  detection_source: ".github/workflows/ci.yml"
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2020-09-09 16:53:21.000000000 Z
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 24.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: package.json
+  last_updated_by: calebmer
+  last_updated_on: 2016-08-01 12:39:32.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 2.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 4.42.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: postgraphiql/yarn.lock
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2018-10-31 14:33:45.000000000 Z
+- name: nodemon
+  description: A simple monitor script for use during development of a node.js app
+  website_url: http://nodemon.io/
+  version: 2.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: node.js Application Monitoring
+  image_url: https://img.stackshare.io/service/5577/preview.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/package.json
+  detection_source: postgraphiql/package.json
+  last_updated_by: Caleb Meredith
+  last_updated_on: 2017-01-28 19:01:17.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile
+  detection_source: Repo Metadata
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2019-04-18 08:57:24.000000000 Z
+- name: superagent library
+  description: robust and clean node and browser reqest library
+  website_url: https://visionmedia.github.io/superagent/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8032/pBeeJQDQ_normal.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2019-02-28 09:24:22.000000000 Z
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-02-15 16:07:31.000000000 Z
+- name: "@babel/plugin-proposal-class-properties"
+  description: This plugin transforms static class properties as well as properties
+    declared with the property initializer syntax
+  package_url: https://www.npmjs.com/@babel/plugin-proposal-class-properties
+  version: 7.8.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15903/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: "@babel/plugin-transform-runtime"
+  description: Externalise references to helpers and builtins
+  package_url: https://www.npmjs.com/@babel/plugin-transform-runtime
+  version: 7.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15952/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: "@babel/preset-env"
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/@babel/preset-env
+  version: 7.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: "@babel/preset-react"
+  description: Babel preset for all React plugins
+  package_url: https://www.npmjs.com/@babel/preset-react
+  version: 7.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15890/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: "@babel/runtime"
+  description: Babel's modular runtime helpers
+  package_url: https://www.npmjs.com/@babel/runtime
+  version: 7.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15934/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: "@types/chalk"
+  description: Stub TypeScript definitions entry for chalk
+  package_url: https://www.npmjs.com/@types/chalk
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16547/default_2d1a470f86144a45b7e94185b9a5aecb5ebb69f4.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: "@types/commander"
+  description: Stub TypeScript definitions entry for commander
+  package_url: https://www.npmjs.com/@types/commander
+  version: 2.12.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16802/default_dc62f5e9b636403c2d19676924f5b6b881abcac8.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: "@types/compression"
+  description: TypeScript definitions for compression
+  package_url: https://www.npmjs.com/@types/compression
+  version: 1.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18206/default_dfaa3c3f19039c5391ee1a13529324eaa2685e7f.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-02-15 16:08:10.000000000 Z
+- name: "@types/debug"
+  description: TypeScript definitions for debug
+  package_url: https://www.npmjs.com/@types/debug
+  version: 4.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16332/default_e8196e273db814cf9be505b35dec386fafb0dbaa.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 25.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: "@types/jsonwebtoken"
+  description: TypeScript definitions for jsonwebtoken
+  package_url: https://www.npmjs.com/@types/jsonwebtoken
+  version: 8.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16959/default_caea01ce44a5fd1bb200d8fc0f8f2a1695b4e569.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: "@types/koa-bodyparser"
+  description: TypeScript definitions for koa-bodyparser
+  package_url: https://www.npmjs.com/@types/koa-bodyparser
+  version: 4.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18242/default_950c270c4c8944606f2f09fbe7f322c8c9164018.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: "@types/morgan"
+  description: TypeScript definitions for morgan
+  package_url: https://www.npmjs.com/@types/morgan
+  version: 1.9.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18064/image.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 14.14.22
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: "@types/pg"
+  description: TypeScript definitions for pg
+  package_url: https://www.npmjs.com/@types/pg
+  version: 7.14.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17947/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: "@types/ws"
+  description: TypeScript definitions for ws
+  package_url: https://www.npmjs.com/@types/ws
+  version: 7.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16711/default_9cd376f2200c8f6c32ebd690bb6c290852dee64d.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 2.34.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 2.34.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: babel-loader
+  description: Babel module loader for webpack
+  package_url: https://www.npmjs.com/babel-loader
+  version: 8.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: body-parser
+  description: Node.js body parsing middleware
+  package_url: https://www.npmjs.com/body-parser
+  version: 1.19.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15906/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 2.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2019-04-18 08:57:24.000000000 Z
+- name: commander
+  description: The complete solution for node.js command-line programs
+  package_url: https://www.npmjs.com/commander
+  version: 2.20.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15829/default_50135978d26eba7c09093ceb23b96d522898e4eb.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2019-04-18 08:57:24.000000000 Z
+- name: compression
+  description: Node.js compression middleware
+  package_url: https://www.npmjs.com/compression
+  version: 1.7.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16187/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-02-15 16:08:10.000000000 Z
+- name: connect
+  description: High performance middleware framework
+  package_url: https://www.npmjs.com/connect
+  version: 3.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16202/default_2c2f2c7b016f84c0fad2576cb986cb14a5dbbc2f.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2019-04-18 08:57:24.000000000 Z
+- name: conventional-changelog-cli
+  description: Generate a changelog from git metadata
+  package_url: https://www.npmjs.com/conventional-changelog-cli
+  version: 2.1.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16260/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: debug
+  description: Small debugging utility
+  package_url: https://www.npmjs.com/debug
+  version: 2.6.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15852/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2019-04-18 08:57:24.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 7.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: eslint-plugin-jest
+  description: Eslint rules for Jest
+  package_url: https://www.npmjs.com/eslint-plugin-jest
+  version: 24.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15996/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 3.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+  vulnerabilities:
+  - name: qs vulnerable to Prototype Pollution
+    cve_id: CVE-2022-24999
+    cve_url: https://github.com/advisories/GHSA-hrpp-h998-j3pp
+    detected_date: Dec 7
+    severity: high
+    first_patched: 4.17.3
+- name: finalhandler
+  description: Node.js final http responder
+  package_url: https://www.npmjs.com/finalhandler
+  version: 1.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17238/default_747c790463912ea0e3a85597146d9c13d6a53db9.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2019-04-18 08:57:24.000000000 Z
+- name: helmet
+  description: Help secure Express/Connect apps with various HTTP headers
+  package_url: https://www.npmjs.com/helmet
+  version: 4.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16584/default_7be6bee773ad8b04cf2fb7e9ff82f5d7ba648dfd.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: html-webpack-plugin
+  description: Simplifies creation of HTML files to serve your webpack bundles
+  package_url: https://www.npmjs.com/html-webpack-plugin
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15841/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: http-errors
+  description: Create HTTP error objects
+  package_url: https://www.npmjs.com/http-errors
+  version: 1.7.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16925/default_7b9968788548874538c601457e8dcd9c74bd2051.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2020-10-28 11:30:27.000000000 Z
+- name: http-proxy
+  description: HTTP proxying for the masses
+  package_url: https://www.npmjs.com/http-proxy
+  version: 1.18.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16430/default_d73092129e1cde5ea9f47f22e2d7c3db7bd6da8d.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: json5
+  description: JSON for humans
+  package_url: https://www.npmjs.com/json5
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16645/default_783b9b6c17b863f264c1418b0eb831316f741afd.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2020-09-15 09:22:33.000000000 Z
+  vulnerabilities:
+  - name: Prototype Pollution in JSON5 via Parse Method
+    cve_id: CVE-2022-46175
+    cve_url: https://github.com/advisories/GHSA-9c47-m6qq-7p4h
+    detected_date: Dec 29
+    severity: high
+    first_patched: 1.0.2
+- name: jsonwebtoken
+  description: JSON Web Token implementation
+  package_url: https://www.npmjs.com/jsonwebtoken
+  version: 8.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16155/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2020-09-15 09:22:33.000000000 Z
+  vulnerabilities:
+  - name: jsonwebtoken has insecure input validation in jwt.verify function
+    cve_id: CVE-2022-23529
+    cve_url: https://github.com/advisories/GHSA-27h2-hvpr-p74q
+    detected_date: Dec 22
+    severity: high
+    first_patched: 9.0.0
+  - name: 'jsonwebtoken unrestricted key type could lead to legacy keys usage '
+    cve_id: CVE-2022-23539
+    cve_url: https://github.com/advisories/GHSA-8cf7-32gw-wr33
+    detected_date: Dec 22
+    severity: moderate
+    first_patched: 9.0.0
+  - name: jsonwebtoken vulnerable to signature validation bypass due to insecure default
+      algorithm in jwt.verify()
+    cve_id: CVE-2022-23540
+    cve_url: https://github.com/advisories/GHSA-qwph-4952-7xr6
+    detected_date: Dec 22
+    severity: moderate
+    first_patched: 9.0.0
+  - name: jsonwebtoken's insecure implementation of key retrieval function could lead
+      to Forgeable Public/Private Tokens from RSA to HMAC
+    cve_id: CVE-2022-23541
+    cve_url: https://github.com/advisories/GHSA-hjrf-2m68-5959
+    detected_date: Dec 22
+    severity: moderate
+    first_patched: 9.0.0
+- name: koa-bodyparser
+  description: A body parser for koa
+  package_url: https://www.npmjs.com/koa-bodyparser
+  version: 4.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16659/default_783b9b6c17b863f264c1418b0eb831316f741afd.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: koa-compress
+  description: Compress middleware for koa
+  package_url: https://www.npmjs.com/koa-compress
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17774/default_406cd74505018958e256af1ce55ae768c8a35f72.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: koa-mount
+  description: Mounting middleware for koa
+  package_url: https://www.npmjs.com/koa-mount
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17608/default_2b5fe3dc5bfc4e83a84162459ff612ac6febd61a.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: morgan
+  description: HTTP request logger middleware for node.js
+  package_url: https://www.npmjs.com/morgan
+  version: 1.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16097/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: parseurl
+  description: Parse a url with memoization
+  package_url: https://www.npmjs.com/parseurl
+  version: 1.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17347/default_b8b4be8bd54f9619446b80b2bf448c0891101f2a.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: pg
+  description: PostgreSQL client - pure javascript &amp; libpq with the same API
+  package_url: https://www.npmjs.com/pg
+  version: 8.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16197/default_3d197518f6bb529bfcc1b685e2cefbdfe83ff108.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: calebmer
+  last_updated_on: 2016-08-01 12:39:32.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 16.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: postgraphiql/package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2019-12-11 12:58:11.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 3.4.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: postgraphiql/package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2019-12-11 12:58:11.000000000 Z
+- name: source-map-support
+  description: Fixes stack traces for files with source maps
+  package_url: https://www.npmjs.com/source-map-support
+  version: 0.5.19
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16028/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: package.json
+  last_updated_by: Denis Badurina
+  last_updated_on: 2020-11-27 16:44:41.000000000 Z
+- name: style-loader
+  description: Style loader module for webpack
+  package_url: https://www.npmjs.com/style-loader
+  version: 0.23.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15822/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: subscriptions-transport-ws
+  description: A websocket transport for GraphQL subscriptions
+  package_url: https://www.npmjs.com/subscriptions-transport-ws
+  version: 0.9.18
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17948/default_e0b07170ab7d7ea66954ff35fdeaae5255c4c0aa.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: superagent
+  description: Elegant &amp; feature rich browser / node HTTP with a fluent API
+  package_url: https://www.npmjs.com/superagent
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16046/default_939338dc71400138c5e4a3464e041bf30f8f82ba.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2019-02-28 09:24:22.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 9.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
+- name: tslib
+  description: Runtime library for TypeScript helper functions
+  package_url: https://www.npmjs.com/tslib
+  version: 1.14.1
+  license: 0BSD
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
+  detection_source_url: https://github.com/shinhanbyeol/postgraphile/blob/main/postgraphiql/yarn.lock
+  detection_source: package.json
+  last_updated_by: Benjie Gillam
+  last_updated_on: 2021-01-22 13:35:55.000000000 Z
